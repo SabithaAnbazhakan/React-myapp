@@ -1,0 +1,24 @@
+.incBtn {
+  background-color: aqua;
+  color: black;
+  padding: 15px;
+  font-size: 15px;
+  margin-right: 15px;
+  margin-top: 15px;
+}
+
+.incVal {
+  font-size: 20px;
+}
+.form-outer {
+  padding: 15px;
+  font-size: 20px;
+  margin: 15px;
+}
+
+.inbtn {
+  background-color: darkgreen;
+}
+.lgbtn {
+  color: darkred;
+}
